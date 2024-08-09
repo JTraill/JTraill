@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JTraill
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Azure cloud deployments and environments
+- 🌱 I’m currently working on Azure cloud deployments and environments
 - 📫 Reach me at my email joshdtraill@gmail.com
 
 <!---
