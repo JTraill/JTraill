@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JTraill
-- 👀 I’m interested in Web Development
+- 👀 I’m a full-stack web developer
 - 💼 I’m currently working at Quartech as a fulltime software engineer
 - 📫 Reach me at my email joshdtraill@gmail.com
 
