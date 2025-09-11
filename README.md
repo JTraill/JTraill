@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JTraill
-- 👀 I’m a full-stack web developer
-- 💼 I’m currently working at Quartech as a fulltime software engineer
+- 👀 I’m a full-stack software engineer
+- 💼 I’m currently working at Quartech
 - 📫 Reach me at my email joshdtraill@gmail.com
 
 <!---
